@@ -38,7 +38,7 @@ Each repository is structured to emphasize **clarity, maintainability, and conti
 
 ##  Connect With Me
 
-📧 **Gmail:** [theabdulside@gmail.com](mailto:theabdulside@gmail.com)
+📧 **Gmail:** [abduls.aixs@gmail.com](mailto:abduls.aixs@gmail.com)
 
 
  **Thanks for visiting my profile. I’m always open to learning opportunities and technical collaboration.**
