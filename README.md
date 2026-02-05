@@ -12,32 +12,21 @@ Artificial Intelligence & Software Development Enthusiast
 ## Professional Summary
 
 I am an **Artificial Intelligence–focused software developer** with a strong foundation in **programming, problem solving, and core computer science concepts**. My primary interests lie in **AI systems, data-driven applications, and modern software development**.
-
-I focus on writing **clean, readable, and efficient code**, with an emphasis on **logic building, algorithmic thinking, and scalable design practices**.  
-Currently, I am strengthening my expertise in **Python-based development, data structures, and AI fundamentals**, while continuously working on practical projects to sharpen real-world skills.
-
-
 ##  Technical Stack
-
 I focus on modern and practical technologies:
-
 ### Programming Languages
-- **Python**
-- **C++**
-
+  **Python**
+  ,**C++**
 ### Web & Software Basics
-- HTML
-- CSS
-
+ HTML
+ ,CSS
 ### Core Competencies
 - Artificial Intelligence fundamentals  
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
 - Problem Solving & Logic Building  
 - Software Development Fundamentals  
-
 ##  Work & Repositories
-
 This GitHub profile includes:
 - Algorithm and data-structure implementations  
 - Programming practice projects  
